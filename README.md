@@ -1,4 +1,4 @@
-![Relative](/pattyruk/assets/media/aesthetic3.jpg)
+![Alt banner](/pattyruk/assets/media/aesthetic3.jpg)
 # PATRICK RUKUNDO
 
 My name is Patrick Rukundo. I'm currently enrolled in the Software Developer Program at Manitoba Institute of Technolgy and Trades (M.I.T.T). I was born in Tanzania in 1996. I'm currently living in Canada, more specificaly Winniepg, Manitoba.
