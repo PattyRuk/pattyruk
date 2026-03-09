@@ -1,4 +1,4 @@
-![Alt](https://png.pngtree.com/thumb_back/fh260/background/20250320/pngtree-8-bit-style-night-landscape-with-mountains-and-stars-image_17126397.jpg)
+![Alt](https://img.freepik.com/free-vector/retro-80s-landscape-scene-game-style_1017-32947.jpg)
 # PATRICK RUKUNDO
 
 My name is Patrick Rukundo. I'm currently enrolled in the **Software Developer** Program at Manitoba Institute of Technolgy and Trades (M.I.T.T). I was born in Tanzania in 1996. I'm currently living in Canada, more specificaly Winniepg, Manitoba.
@@ -13,4 +13,10 @@ I recently took an interest in programming, my curiosity grew as I was watching 
 - JavaScript
 - WindowsOS
 - MacOS
+
+#### Social Links 
+[Linked-In](www.linkedin.com/in/patrick-rukundo-24b0a5143)
+[Indeed](https://profile.indeed.com/?hl=en_CA&co=CA&from=gnav-jobseeker-profile--profile-one-frontend)
+[Facebook](https://www.facebook.com/pkundwa/)
+[Instagram](https://www.instagram.com/patrickruk/)
 
