@@ -1,4 +1,4 @@
-![Relative](/pattyruk/assets/media/aesthetic3.jpg)
+![Relative](/pattyruk/assets/media/aestheticScreenshot.png)
 
 # PATRICK RUKUNDO
 
