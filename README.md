@@ -1,4 +1,3 @@
-![Relative](/pattyruk/assets/media/aestheticScreenshot.png)
 ![Alt](https://png.pngtree.com/thumb_back/fh260/background/20250320/pngtree-8-bit-style-night-landscape-with-mountains-and-stars-image_17126397.jpg)
 # PATRICK RUKUNDO
 
