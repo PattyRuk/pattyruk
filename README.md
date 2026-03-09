@@ -1,11 +1,12 @@
 ![Alt](https://img.freepik.com/free-vector/retro-80s-landscape-scene-game-style_1017-32947.jpg)
 
 
-My name is **Patrick Rukundo**. I'm currently enrolled in the **Software Developer** Program at Manitoba Institute of Technolgy and Trades (M.I.T.T). I was born in Tanzania in 1996. I'm currently living in Canada, more specificaly Winniepg, Manitoba.
+My name is **Patrick Rukundo** and I'm currently enrolled in the **Software Developer** Program at Manitoba Institute of Technolgy and Trades (M.I.T.T). I just recently took an interest in programming, my curiosity grew as I was watching self-teach tutorials on Youtube about Python programming for games and apps.
 
 
 ### About Me
-I recently took an interest in programming, my curiosity grew as I was watching self-teach tutorials on Youtube about Python programming for games and apps. I enjoy all aspects of tech (*aside from when it breaks down*), from gaming consoles, phones, tablets, computers; **technology is never boring**.
+I was born in Tanzania, August 1996. I currently reside in Canada, more specificaly Winniepg, Manitoba. I enjoy all aspects of tech (*aside from when it breaks down*), from gaming consoles, phones, tablets, computers; **tech is never boring**.  
+**Hobbies:** *Basketball and Gaming.*
 
 #### Relavent Skills
 - HTML 
