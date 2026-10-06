@@ -32,13 +32,6 @@ A clean, responsive dashboard designed in React to manage real-time tasks and tr
 
 ---
 
-## Beyond the Terminal
-
-*   **Tech Enthusiast:** Fascinated by all dimensions of computing infrastructure, hardware engineering, tablets, and gaming consoles.
-*   **Hobbies:** When I am not writing code, you can find me playing basketball or gaming.
-
----
-
 ## Education & Context
 
 **Software Developer Diploma**  
