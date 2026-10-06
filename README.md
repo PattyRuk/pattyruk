@@ -39,10 +39,23 @@ A clean, responsive dashboard designed in React to manage real-time tasks and tr
 
 ---
 
+## Education & Context
+
+**Software Developer Diploma**  
+*Manitoba Institute of Trades and Technology (MITT), Winnipeg, MB*  
+*   *Core Course Blocks:* Advanced C#, Relational Databases & ORM, Software Engineering Design Patterns, Unit Testing in .NET, Object-Oriented JavaScript, Introduction to React.
+
+**Bachelor of Science (Biology & Chemistry)**  
+*University of Manitoba, Winnipeg, MB*  
+*   *Value Pivot:* Brought structural laboratory testing methodologies, quantitative data extraction, and rigorous logical problem-solving models directly into software debugging tracks.
+
+---
+
 ## Connect With Me
 
 *   **LinkedIn:** [Linked-In](https://www.linkedin.com/in/patrick-rukundo-24b0a5143/)
 *   **Indeed:** [Indeed](https://profile.indeed.com/?hl=en_CA&co=CA&from=gnav-jobseeker-profile--profile-one-frontend)
-*   **Email:** [patrickrukundo96]("mailto:patrickrukundo96@yahoo.com")
-  
+*   **Email:** [patrickrukundo96]("patrickrukundo96@yahoo.com")
+*   **Phone:** 204-583-7963
+
 
