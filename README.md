@@ -49,6 +49,5 @@ A clean, responsive dashboard designed in React to manage real-time tasks and tr
 *   **LinkedIn:** [Linked-In](https://www.linkedin.com/in/patrick-rukundo-24b0a5143/)
 *   **Indeed:** [Indeed](https://profile.indeed.com/?hl=en_CA&co=CA&from=gnav-jobseeker-profile--profile-one-frontend)
 *   **Email:** [patrickrukundo96]("patrickrukundo96@yahoo.com")
-*   **Phone:** 204-583-7963
 
 
